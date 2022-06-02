@@ -15,5 +15,6 @@ public class GitTest {
         System.out.println("测试推送到Github远程库");
         System.out.println("测试ssh推送到Github远程库");
         System.out.println("测试");
+        System.out.println("test master");
     }
 }
